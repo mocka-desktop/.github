@@ -30,4 +30,4 @@ Bug reports and feedback are welcome in each component's issue tracker.
 ## Support the project
 
 Mocka is developed as part of GhostBSD. You can support development on
-[Patreon](PATREON_LINK).
+[Patreon](https://www.patreon.com/GhostBSD).
